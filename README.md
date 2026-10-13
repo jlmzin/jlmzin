@@ -57,8 +57,6 @@ print(juan.evoluir())
 
 💻 Estudando linguagens de programação, desenvolvimento de aplicações e ferramentas que ajudam a criar soluções eficientes.
 
-🎯 **Minha filosofia:** aprender na prática, resolver problemas e evoluir constantemente.
-
 <br clear="right"/>
 
 ---
