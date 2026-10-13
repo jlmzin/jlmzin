@@ -108,21 +108,7 @@ print(juan.evoluir())
 
 ---
 
-## `04` // Activity Graph
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/jlmzin/jlmzin/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribuições no GitHub"
-  />
-
-</div>
-
----
-
-## `05` // Contribution snake 🐍
+## `04` // Contribution snake 🐍
 
 <div align="center">
 
@@ -136,7 +122,7 @@ print(juan.evoluir())
 
 ---
 
-## `06` // Projetos em destaque
+## `05` // Projetos em destaque
 
 <div align="center">
 
@@ -163,7 +149,7 @@ print(juan.evoluir())
 
 ---
 
-## `07` // Roadmap de aprendizado
+## `06` // Roadmap de aprendizado
 
 <div align="center">
 
@@ -181,7 +167,7 @@ print(juan.evoluir())
 
 ---
 
-## `08` // Vamos nos conectar?
+## `07` // Vamos nos conectar?
 
 <div align="center">
 
