@@ -96,8 +96,6 @@ print(juan.evoluir())
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jlmzin&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7AA2F7&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmzin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
 
 </div>
