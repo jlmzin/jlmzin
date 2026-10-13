@@ -73,16 +73,6 @@ Também estudo programação e desenvolvimento de aplicações, buscando transfo
 
 ---
 
-## 📈 Histórico de contribuições
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jlmzin&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade do GitHub" />
-
-</div>
-
----
-
   <img src="https://komarev.com/ghpvc/?username=jlmzin&style=flat-square&color=58A6FF&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
 
   **"A melhor maneira de aprender é construir, testar e evoluir."**
