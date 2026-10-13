@@ -1,74 +1,200 @@
-# 👨‍💻 Olá, eu sou o Juan!
+<!--
+  GITHUB PROFILE README
+  Usuário: jlmzin
+  Tema: Tokyo Night / Neon Blue
+-->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Transformando+ideias+em+projetos!" alt="Texto animado de apresentação" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:58A6FF&height=200&section=header&text=JUAN%20LUIZ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20IT%20INFRASTRUCTURE&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner animado de Juan Luiz"/>
 
-  <p>
-    <img src="https://img.shields.io/badge/Desenvolvimento-de%20Software-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Infraestrutura-e%20Redes-238636?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Juan!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Desenvolvimento+de+Software+%F0%9F%92%BB;Aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada"/>
 
-  <p>
-    <a href="https://github.com/jlmzin">
-      <img src="https://img.shields.io/badge/GitHub-jlmzin-181717?style=for-the-badge&logo=github" />
-    </a>
-  </p>
+  <br/>
+
+  <img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-7AA2F7?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-APRENDIZADO-9ECE6A?style=for-the-badge&labelColor=0D1117"/>
+
+  <br/><br/>
+
+  <a href="https://github.com/jlmzin">
+    <img src="https://img.shields.io/badge/GitHub-jlmzin-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jlmzin?tab=repositories">
+    <img src="https://img.shields.io/badge/MEUS%20PROJETOS-VER%20REPOSIT%C3%93RIOS-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
 </div>
 
 ---
 
-## 👨‍🚀 Sobre mim
+## `01` // Sobre mim
 
-Sou estudante de **Ciência da Computação**, interessado em desenvolvimento de software, infraestrutura de TI, redes e novas tecnologias.
+<img align="right" width="155" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
 
-Atualmente, atuo com **suporte técnico, infraestrutura e redes**, desenvolvendo experiência prática em manutenção de computadores, configuração de impressoras, monitoramento de rede e resolução de problemas técnicos.
+```python
+class Desenvolvedor:
+    def __init__(self):
+        self.nome = "Juan"
+        self.area = "Ciência da Computação"
+        self.atuacao = "Suporte Técnico, Infra e Redes"
+        self.foco = [
+            "Desenvolvimento de Software",
+            "Automação",
+            "Infraestrutura de TI"
+        ]
+        self.objetivo = "Transformar ideias em soluções"
 
-Também estudo programação e desenvolvimento de aplicações, buscando transformar conhecimentos teóricos em projetos práticos.
+    def evoluir(self):
+        return "Aprender, praticar e construir! 🚀"
+```
 
-- 💻 Interesse em desenvolvimento de software e aplicações web.
-- 🛠️ Experiência prática com suporte técnico e manutenção de computadores.
-- 🌐 Estudos em infraestrutura, redes e sistemas operacionais.
-- 🧠 Aprendizado contínuo em lógica de programação e novas tecnologias.
-- 🚀 Objetivo: evoluir como desenvolvedor e construir soluções úteis.
+🎓 Estudante de **Ciência da Computação**, interessado em desenvolvimento de software e novas tecnologias.
+
+🖥️ Atuação em **suporte técnico, infraestrutura e redes**, com experiência prática em manutenção de computadores, configuração de impressoras, monitoramento de rede e resolução de problemas.
+
+💻 Estudando linguagens de programação, desenvolvimento de aplicações e ferramentas que ajudam a criar soluções eficientes.
+
+🎯 **Minha filosofia:** aprender na prática, resolver problemas e evoluir constantemente.
+
+<br clear="right"/>
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## `02` // Tech stack
+
+<div align="center">
 
 ### 💻 Linguagens de programação
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css&theme=dark" alt="Linguagens de programação"/>
 
 ### ⚙️ Frameworks e desenvolvimento
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=dotnet,blazor&theme=dark" alt="Frameworks de desenvolvimento"/>
 
-### 🔧 Ferramentas e infraestrutura
+### 🛠️ Ferramentas, banco de dados e sistemas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postgres,docker,linux,windows&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postgres,docker,linux,windows&theme=dark" alt="Ferramentas e tecnologias"/>
 
----
+<br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmzin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-
-</div>
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlmzin&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+<img src="https://img.shields.io/badge/LEARNING-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEARNING-JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEARNING-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/TOOLS-GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
 
 ---
+
+## `03` // GitHub analytics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jlmzin&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7AA2F7&text_color=C9D1D9&include_all_commits=true" alt="Estatísticas do GitHub"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmzin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas"/>
+
+</div>
+
+<div align="center">
+
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlmzin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7AA2F7&currStreakLabel=58A6FF" alt="Sequência de contribuições"/>
+
+</div>
+
+---
+
+## `04` // Gráfico de atividade
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jlmzin&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7AA2F7&area=true&area_color=161B33&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade do GitHub"/>
+
+</div>
+
+---
+
+## `05` // Contribution snake 🐍
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlmzin/jlmzin/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jlmzin/jlmzin/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/jlmzin/jlmzin/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+
+</div>
+
+---
+
+## `06` // Projetos em destaque
+
+<div align="center">
+
+  <a href="https://github.com/jlmzin/afya-admin">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jlmzin&repo=afya-admin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Afya Admin"/>
+  </a>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/jlmzin?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORAR-TODOS%20OS%20PROJETOS-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Todos os projetos"/>
+  </a>
+
+</div>
+
+### 🔭 Atualmente trabalhando para evoluir em
+
+- Desenvolvimento de dashboards e aplicações web com **Blazor, C# e .NET**.
+- Programação com **Python e Java**.
+- Banco de dados e integração de aplicações.
+- Infraestrutura, redes, manutenção e diagnóstico de problemas de TI.
+
+---
+
+## `07` // Roadmap de aprendizado
+
+<div align="center">
+
+| Área | Objetivo |
+|:---|:---|
+| 🐍 Python | Evoluir em lógica, automação e aplicações |
+| ☕ Java | Praticar orientação a objetos e desenvolvimento |
+| 💜 C# / .NET | Construir aplicações e APIs |
+| 🌐 Desenvolvimento Web | Aprimorar HTML, CSS e JavaScript |
+| 🗄️ Banco de dados | Praticar SQL e modelagem de dados |
+| 🐳 Docker | Aprender conteinerização e ambientes de desenvolvimento |
+| 🔧 Infraestrutura | Aprofundar redes, sistemas e suporte técnico |
+
+</div>
+
+---
+
+## `08` // Vamos nos conectar?
+
+<div align="center">
+
+  <a href="https://github.com/jlmzin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Adicione seu LinkedIn profissional aqui, se desejar. -->
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=jlmzin&style=for-the-badge&color=58A6FF&label=VISITAS+AO+PERFIL" alt="Contador de visualizações"/>
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=%22A+melhor+forma+de+prever+o+futuro+%C3%A9+constru%C3%AD-lo.%22;One+commit+at+a+time.+%F0%9F%9A%80" alt="Frase animada"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B33,100:0D1117&height=110&section=footer" alt="Rodapé decorativo"/>
+
