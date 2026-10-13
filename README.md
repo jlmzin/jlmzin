@@ -185,7 +185,7 @@ print(juan.evoluir())
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <!-- Adicione seu LinkedIn profissional aqui, se desejar. -->
+  <!-- https://www.linkedin.com/in/juan-lima-machado/ -->
 
   <br/><br/>
 
