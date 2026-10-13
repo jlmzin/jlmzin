@@ -114,8 +114,8 @@ print(juan.evoluir())
 
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jlmzin&theme=tokyo-night"
-    alt="Gráfico de atividade do GitHub"
+    src="https://raw.githubusercontent.com/jlmzin/jlmzin/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribuições no GitHub"
   />
 
 </div>
