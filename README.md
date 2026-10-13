@@ -48,6 +48,9 @@ class Desenvolvedor:
 
     def evoluir(self):
         return "Aprender, praticar e construir! 🚀"
+
+juan = Desenvolvedor()
+print(juan.evoluir())
 ```
 
 🎓 Estudante de **Ciência da Computação**, interessado em desenvolvimento de software e novas tecnologias.
