@@ -8,7 +8,8 @@
 
   
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:58A6FF&height=200&section=header&text=JUAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20EM%20PROGRESSO&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner animado de Juan"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:58A6FF&height=200&section=header&text=JUAN&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=%E2%9F%A8%2F%E2%9F%A9%20DEVELOPER%20IN%20PROGRESS&descAlignY=60&descSize=18&fontAlign=50&animation=fadeIn" alt="Juan | Developer in Progress"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Juan!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Desenvolvimento+de+Software+%F0%9F%92%BB;Aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada"/>
 
