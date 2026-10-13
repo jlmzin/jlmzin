@@ -72,11 +72,3 @@ Também estudo programação e desenvolvimento de aplicações, buscando transfo
 </div>
 
 ---
-
-  <img src="https://komarev.com/ghpvc/?username=jlmzin&style=flat-square&color=58A6FF&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
-
-  **"A melhor maneira de aprender é construir, testar e evoluir."**
-
-  *Em constante aprendizado. Um commit de cada vez.* 💙
-
-</div>
