@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:58A6FF&height=200&section=header&text=JUAN%20LUIZ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20IT%20INFRASTRUCTURE&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner animado de Juan Luiz"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:58A6FF&height=200&section=header&text=JUAN%20&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20IT%20INFRASTRUCTURE&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner animado de Juan"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Juan!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Desenvolvimento+de+Software+%F0%9F%92%BB;Aprendendo%2C+construindo+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada"/>
 
