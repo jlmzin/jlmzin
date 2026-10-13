@@ -107,13 +107,19 @@ print(juan.evoluir())
 </div>
 ---
 
+
 ## `04` // Activity Graph
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jlmzin&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7AA2F7&area=true&area_color=161B33&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade do GitHub"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jlmzin&theme=tokyo-night"
+    alt="Gráfico de atividade do GitHub"
+  />
 
 </div>
+
 
 ---
 
