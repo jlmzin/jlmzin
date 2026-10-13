@@ -61,8 +61,6 @@ Também estudo programação e desenvolvimento de aplicações, buscando transfo
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jlmzin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmzin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
 
 </div>
