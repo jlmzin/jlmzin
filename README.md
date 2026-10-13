@@ -34,23 +34,21 @@
 <img align="right" width="155" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animação de programação"/>
 
 ```python
+
 class Desenvolvedor:
-    def __init__(self):
-        self.nome = "Juan"
-        self.area = "Ciência da Computação"
-        self.atuacao = "Suporte Técnico, Infra e Redes"
-        self.foco = [
-            "Desenvolvimento de Software",
-            "Automação",
-            "Infraestrutura de TI"
-        ]
-        self.objetivo = "Transformar ideias em soluções"
+    nome = "Juan"
+    area = "Ciência da Computação"
+    atuacao = "Infraestrutura & Redes"
+
+    tecnologias = ["Python", "Java", "C#", ".NET"]
 
     def evoluir(self):
-        return "Aprender, praticar e construir! 🚀"
+        return "Aprender. Codar. Evoluir. 🚀"
+
 
 juan = Desenvolvedor()
 print(juan.evoluir())
+
 ```
 
 🎓 Estudante de **Ciência da Computação**, interessado em desenvolvimento de software e novas tecnologias.
