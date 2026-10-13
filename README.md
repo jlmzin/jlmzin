@@ -173,12 +173,6 @@ print(juan.evoluir())
 
   <!-- https://www.linkedin.com/in/juan-lima-machado/ -->
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=jlmzin&style=for-the-badge&color=58A6FF&label=VISITAS+AO+PERFIL" alt="Contador de visualizações"/>
-
-  <br/><br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=%22A+melhor+forma+de+prever+o+futuro+%C3%A9+constru%C3%AD-lo.%22;One+commit+at+a+time.+%F0%9F%9A%80" alt="Frase animada"/>
 
 </div>
