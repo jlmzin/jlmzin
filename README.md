@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Transformando+ideias+em+projetos!" alt="Texto animado de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%7C+Infraestrutura+%26+Redes;Transformando+ideias+em+projetos!" alt="Texto animado de apresentação" />
 
   <p>
     <img src="https://img.shields.io/badge/Desenvolvimento-de%20Software-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
