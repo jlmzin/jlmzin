@@ -105,8 +105,8 @@ print(juan.evoluir())
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=jlmzin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=7AA2F7&currStreakLabel=58A6FF" alt="Sequência de contribuições"/>
 
 </div>
----
 
+---
 
 ## `04` // Activity Graph
 
@@ -119,7 +119,6 @@ print(juan.evoluir())
   />
 
 </div>
-
 
 ---
 
