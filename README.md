@@ -107,7 +107,7 @@ print(juan.evoluir())
 </div>
 ---
 
-## `04` // Gráfico de atividade
+## `04` // Activity Graph
 
 <div align="center">
 
