@@ -43,7 +43,7 @@ class Desenvolvedor:
     area = "Ciência da Computação"
     atuacao = "Infraestrutura & Redes"
 
-    tecnologias = ["Python", "Java", "C#", ".NET"]
+    tecnologias = ["Python", "C#", ".NET"]
 
     def evoluir(self):
         return "Aprender. Codar. Evoluir. 🚀"
