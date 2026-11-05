@@ -70,7 +70,7 @@ print(juan.evoluir())
 
 ### 💻 Linguagens de programação
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css&theme=dark" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" alt="Linguagens de programação"/>
 
 ### ⚙️ Frameworks e desenvolvimento
 
